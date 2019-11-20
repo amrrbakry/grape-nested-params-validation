@@ -8,7 +8,7 @@ related: https://github.com/ruby-grape/grape/issues/1933
 ```
 curl -X POST \
   'http://localhost:3000/base/sessions?registration[waiting_list_enabled]=true' \
-  -H 'Cache-Control: no-cache' \
+  -H 'Cache-Control: no-cache'
 ```
 
 expected response:
