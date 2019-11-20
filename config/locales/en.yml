@@ -1,0 +1,9 @@
+en:
+  grape:
+    errors:
+      format: ! '%{attributes} %{message}'
+      messages:
+        name_required: 'must be present'
+      attributes:
+        registration:
+          total_capacity: 'Total capacity'
