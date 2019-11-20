@@ -1,6 +1,6 @@
 ### Steps to reproduce:
 - clone repo && cd
-- `$ rails s`
+- start server: `$ rails s`
 - fire request: 
 ```
 curl -X POST \
