@@ -1,5 +1,6 @@
 ### Steps to reproduce:
 - clone repo && cd
+- run `$ bundle install && rake db:create`
 - start server: `$ rails s`
 - fire request: 
 ```
