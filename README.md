@@ -1,3 +1,5 @@
+related: https://github.com/ruby-grape/grape/issues/1933
+
 ### Steps to reproduce:
 - clone repo && cd
 - run `$ bundle install && rake db:create`
